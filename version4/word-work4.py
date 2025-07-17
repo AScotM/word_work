@@ -147,7 +147,6 @@ def print_results(analyzer, show_word_freq=False):
     """
     Print formatted results for a single file.
 
- interference
     Args:
         analyzer (FileAnalyzer): The analyzer instance with results.
         show_word_freq (bool): Whether to show word frequency.
